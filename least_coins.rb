@@ -18,4 +18,4 @@ cents = cents - 1
 end
 return coins
 end
-least_coins(29)
+puts least_coins(29)
